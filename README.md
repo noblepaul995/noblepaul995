@@ -131,8 +131,8 @@ I build **scalable full-stack applications**, **cross-platform mobile apps**, an
 ## 🤝 Connect With Me
 
 * 💼 **LinkedIn:** *(add your link here)*
-* 📫 **Email:** *(add your email here)*
-* 🧑‍💻 **GitHub:** *(add your GitHub here)*
+* 📫 **Email:** *noblepaul995@gmail.com*
+* 🧑‍💻 **GitHub:** *noblepaul995*
 
 ---
 
