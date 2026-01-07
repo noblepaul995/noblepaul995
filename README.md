@@ -67,7 +67,12 @@ I build **scalable full-stack applications**, **cross-platform mobile apps**, an
 * AI-based automation tools
 
 ---
+### 📊 Data Science & ML
 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn)
+
+---
 ### ⚙️ DevOps & Deployment
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
