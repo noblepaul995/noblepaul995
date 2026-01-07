@@ -1,8 +1,3 @@
-Here’s a **clean, professional, and polished version** rewritten **specifically for you**, keeping *Crudzy, Transform, and Doxel* as **your projects** and aligning with your actual tech stack and background 👇
-You can directly use this for **GitHub README, LinkedIn About, or Portfolio**.
-
----
-
 # 👋 Hi, I'm **Noble Paul**
 
 ### 🚀 Full-Stack Developer | Mobile App Developer | AI & Automation Enthusiast
