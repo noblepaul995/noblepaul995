@@ -130,7 +130,7 @@ I build **scalable full-stack applications**, **cross-platform mobile apps**, an
 
 ## 🤝 Connect With Me
 
-* 💼 **LinkedIn:** *(add your link here)*
+* 💼 **LinkedIn:**(https://www.linkedin.com/in/noble-paul-78993a220/)**
 * 📫 **Email:** *noblepaul995@gmail.com*
 * 🧑‍💻 **GitHub:** *noblepaul995*
 
