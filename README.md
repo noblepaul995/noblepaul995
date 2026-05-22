@@ -49,7 +49,7 @@ I build **scalable full-stack applications**, **cross-platform mobile apps**, an
 ### 📱 Mobile Development
 
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+
 
 ---
 
