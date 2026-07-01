@@ -50,6 +50,6 @@
 ## 📊 Git Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noblepaul995&show_icons=true&theme=tokyonight&count_private=true" alt="Noble's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noblepaul995&theme=tokyonight&layout=compact" alt="Top Langs" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=noblepaul995&show_icons=true&theme=tokyonight&count_private=true" alt="Noble's GitHub stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=noblepaul995&theme=tokyonight&layout=compact" alt="Top Langs" width="48%" />
 </p>
