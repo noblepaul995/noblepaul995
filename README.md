@@ -1,54 +1,55 @@
-# 🚀 Noble Paul
-### **Full-Stack Engineer | Mobile App Developer | AI & Automation Enthusiast**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=46E3B7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Noble+Paul+%F0%9F%9A%80;Full-Stack+Engineer;Mobile+App+Developer;AI+%26+Automation+Enthusiast" alt="Typing SVG" />
+</p>
 
-I am a Computer Science & Engineering undergraduate at **ITER, Siksha 'O' Anusandhan (SOA)**. I specialize in building scalable backend architectures, cross-platform mobile experiences, and production-ready, agentic AI workflows. 
+<p align="center">
+  <strong>Computer Science & Engineering Undergrad @ ITER, SOA University</strong>
+</p>
 
-[💼 LinkedIn](https://www.linkedin.com/in/noble-paul-78993a220/) • [💻 GitHub](https://github.com/noblepaul995) • [✉️ Email](mailto:noblepaul995@gmail.com)
-
----
-
-## 🛠️ Technical Ecosystem
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| **Web & Backend** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **Mobile & State** | ![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white) `Zustand` `Flutter` |
-| **AI & Automation** | ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) `LangGraph` `LLM Fine-Tuning` `Multi-Agent Orchestration` `Prompt Engineering` |
-| **Data & DevOps** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logoColor=black) |
+<p align="center">
+  <a href="https://www.linkedin.com/in/noble-paul-78993a220/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/noblepaul995"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:noblepaul995@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Tech Stack & Ecosystem
 
-### 🛠️ **Crudzy** — Backend-as-a-Service (BaaS)
-*A scalable cloud platform designed to simplify backend development by providing instant, secure infrastructure.*
-* **Core Architecture:** Dynamic MongoDB schema generation alongside hybrid **JWT + API Token authentication** systems.
-* **Security:** Engineered granular, role-based access controls (RBAC) to handle public and private collections securely.
-* 🌐 [Live Demo](https://crudzy.com)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,py,js,cpp,nextjs,react,nodejs,mongodb,redux,flutter,docker,vercel" alt="My Skills" />
+</p>
 
-### 🧠 **Transform** — AI Diagram Generator
-*An intelligent utility that translates natural language prompts into architectural blueprints and diagrams.*
-* **AI Orchestration:** Leverages advanced LLM APIs to parse user prompts into structured visual flows (ERDs, flowcharts, system topology).
-* **Target Audience:** Purpose-built to expedite workflows for software architects, systems engineers, and students.
-* 🌐 [Live Demo](https://systemdraw.vercel.app/)
-
-### 📝 **Doxel** — Documentation Builder
-*A lightning-fast, Markdown-centric hosting platform tailored for developer documentation workflows.*
-* **Key Features:** Seamless code block rendering, high-readability themes, and an intuitive content-publishing lifecycle.
-* **In Development:** Real-time engineering collaboration rooms and automated version control.
-* 🌐 [Live Demo](https://doxel.vercel.app/)
+| AI & Automation Pipelines |
+| :--- |
+| `LangChain` • `LangGraph` • `Multi-Agent Orchestration` • `LLM Fine-Tuning` • `Prompt Engineering` |
 
 ---
 
-## 🎯 Core Competencies
+## 🚀 Engineering Showcases
 
-* **Software Architecture:** RESTful API Design, Relational & Non-Relational Database Modeling, Clean Architecture.
-* **Artificial Intelligence:** Designing stateful, multi-agent workflows using **LangGraph** and implementing RAG pipelines.
-* **Algorithms:** Strong foundation in Data Structures and Algorithms (DSA) with an analytical approach to optimization.
+### 🪐 **Crudzy** — Backend-as-a-Service (BaaS)
+> **Stack:** Node.js • MongoDB • JWT Auth • Cloud Infrastructure
+* **Dynamic Generation:** Built a polymorphic data engine capable of runtime MongoDB schema orchestration.
+* **Hybrid Security:** Engineered a unified authentication matrix using concurrent JWT sessions and persistent API tokens.
+* 🔗 [**Launch Platform**](https://crudzy.com)
+
+### 🎨 **Transform** — AI Diagram Generator
+> **Stack:** Next.js • LLM APIs • Graph Theory • Vector Frameworks
+* **Natural Language Parsing:** Designed an interface mapping text-based system prompts directly into structured metadata models.
+* **Instant Compilation:** Automated generation pipelines for relational ERDs and flowcharts.
+* 🔗 [**Launch Platform**](https://systemdraw.vercel.app/)
+
+### 📄 **Doxel** — Documentation Builder
+> **Stack:** React • Markdown-Parser • Static Site Generation
+* **Developer Workflows:** Created a fast Markdown parsing engine featuring contextual code blocks.
+* 🔗 [**Launch Platform**](https://doxel.vercel.app/)
 
 ---
 
-## 🎓 Education
-* **B.Tech in Computer Science & Engineering** 
-  *Institute of Technical Education & Research (ITER), SOA University*
+## 📊 Git Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=noblepaul995&show_icons=true&theme=tokyonight&count_private=true" alt="Noble's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noblepaul995&theme=tokyonight&layout=compact" alt="Top Langs" width="48%" />
+</p>
