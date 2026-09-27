@@ -33,7 +33,7 @@
 * **Full-Repo Understanding:** Multi-stage pipeline (scan → parse → dependency resolution → chunking → knowledge graph → embeddings) grounds every generated doc in the actual codebase rather than model guesswork, across Python, JS, TS, Go, and Rust.
 * **Agentic Q&A:** A tool-using investigation loop lets you ask plain-language questions about any repo — including live ones straight from a GitHub URL — with the model reading files, tracing dependencies, and optionally searching the web across multiple steps before answering.
 * **Provider-Agnostic:** Runs fully offline via Ollama/LM Studio or against OpenAI, Anthropic, Gemini, Groq, and OpenRouter — same pipeline, your choice of model.
-* 🔗 [**Source**](https://github.com/noblepaul995/alex) <!-- update this link to wherever you actually host it -->
+* 🔗 [**Source**](https://github.com/noblepaul995/Alex-the-doc) <!-- update this link to wherever you actually host it -->
 
 ### 🪐 **Crudzy** — Backend-as-a-Service (BaaS)
 > **Stack:** Node.js • MongoDB • JWT Auth • Cloud Infrastructure
